@@ -11,5 +11,3 @@ Sou Guilherme, estudante de Ciência da Computação, interessado em desenvolvim
 🏫 Poliedraw
 Projeto da faculdade, site em parceria com o Colégio Poliedro
 Obrigado por visitar! 🧙‍♂️
-
--->
