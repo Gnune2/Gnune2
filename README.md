@@ -4,7 +4,7 @@
 
 🧑‍💻 Sobre mim:
 <br/>
-Sou Guilherme, estudante de Ciência da Computação, interessado em desenvolvimento de software e sempre buscando novos aprendizados e desafios práticos.
+Estudante de Ciência da Computação, interessado em desenvolvimento de software e sempre buscando novos aprendizados e desafios práticos.
 ---
 📂 Repositórios
 <br/>
