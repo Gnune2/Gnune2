@@ -6,11 +6,28 @@
 <br/>
 Estudante de Ciência da Computação, interessado em desenvolvimento de software e sempre buscando novos aprendizados e desafios práticos.
 ---
-📂 Repositórios
-<br/>
-🏫 Poliedraw: Projeto da faculdade, integração de uma API em um site para a geração de imagens com IA em parceria com o Colégio Poliedro.
+# 📂 Repositórios
 
-### 🤖 Linguagens e Tecnologias
+## 🧪 QuimLab
+
+### **Instituição Parceira:** ETEC Júlio de Mesquita  
+
+O **QuimLab** é um sistema desktop desenvolvido em Java voltado para a gamificação do ensino de química e gestão de laboratórios. O foco principal é oferecer uma ferramenta interativa para alunos do ensino médio técnico e um painel de controle eficiente para professores.
+
+---
+
+## 🎨 Poliedraw
+### **Instituição Parceira:** Colégio Poliedro
+
+O **Poliedraw** é um projeto acadêmico focado na integração de uma inteligência artificial (nanobanana) para facilitar a criação visual de imagens acadêmicas dentro do contexto educacional.
+
+---
+## 🚀 SemDP
+### **Instituição Parceira:** Projeto Independente (Desenvolvimento Autônomo)
+O **SemDP** é uma plataforma Fullstack projetada para a gestão do desempenho acadêmico de estudantes universitários. O sistema automatiza o cálculo de médias ponderadas complexas e fornece previsões de notas necessárias para aprovação, auxiliando o aluno no planejamento de seus estudos e na prevenção de dependências (DPs).
+
+---
+# 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
