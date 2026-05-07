@@ -1,30 +1,36 @@
 # 👩🏻‍💻 Guilherme Nunes
 
 **`Desenvolvedor FullStack`**
-
-🧑‍💻 Sobre mim:
-<br/>
+<p>
 Estudante de Ciência da Computação, interessado em desenvolvimento de software e sempre buscando novos aprendizados e desafios práticos.
----
-# 📂 Repositórios
-
-## 🧪 QuimLab
-
-### **Instituição Parceira:** ETEC Júlio de Mesquita  
-
-O **QuimLab** é um sistema desktop desenvolvido em Java voltado para a gamificação do ensino de química e gestão de laboratórios. O foco principal é oferecer uma ferramenta interativa para alunos do ensino médio técnico e um painel de controle eficiente para professores.
+</p>
 
 ---
 
-## 🎨 Poliedraw
-### **Instituição Parceira:** Colégio Poliedro
-
-O **Poliedraw** é um projeto acadêmico focado na integração de uma inteligência artificial (nanobanana) para facilitar a criação visual de imagens acadêmicas dentro do contexto educacional.
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <ul>
+          <li>📚 computer science - IMT</li>
+          <li>🔭 Atualmente estudo e desenvolvo projetos em Java, JavaScript/HTML/CSS, python e uns frameworks</li>
+          <li>🤫 Front-end por necessidade, Back-end por amor.</li>
+          <li>☕ Perdendo cabelo, e bebendo muito café</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-## 🚀 SemDP
-### **Instituição Parceira:** Projeto Independente (Desenvolvimento Autônomo)
-O **SemDP** é uma plataforma Fullstack projetada para a gestão do desempenho acadêmico de estudantes universitários. O sistema automatiza o cálculo de médias ponderadas complexas e fornece previsões de notas necessárias para aprovação, auxiliando o aluno no planejamento de seus estudos e na prevenção de dependências (DPs).
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gnune2/Gnune2/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gnune2/Gnune2/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gnune2/Gnune2/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 # 🤖 Linguagens e Tecnologias
@@ -53,22 +59,7 @@ O **SemDP** é uma plataforma Fullstack projetada para a gestão do desempenho a
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -118,4 +109,13 @@ O **SemDP** é uma plataforma Fullstack projetada para a gestão do desempenho a
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Linucao" 
+    title="Linucao"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
