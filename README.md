@@ -20,19 +20,15 @@
 
   <br />
 
-  <table border="0" style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td align="center" width="320" style="border: none; padding: 16px;">
-        <img src="assets/accenture.png" height="50" alt="Accenture" /><br /><br />
-        <sub><strong>Accenture</strong><br />Innovation Reinventor Intern</sub>
-      </td>
-      <td align="center" width="60" style="border: none; font-size: 26px; color: #555;">•</td>
-      <td align="center" width="320" style="border: none; padding: 16px;">
-        <img src="assets/maua.png" height="52" alt="Instituto Mauá de Tecnologia" /><br /><br />
-        <sub><strong>Instituto Mauá de Tecnologia</strong><br />Ciência da Computação (3º Semestre)</sub>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://www.accenture.com" target="_blank">
+      <img src="assets/accenture.png" height="52" alt="Accenture" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://maua.br" target="_blank">
+      <img src="assets/maua.png" height="70" alt="Instituto Mauá de Tecnologia" />
+    </a>
+  </p>
 </div>
 
 ---
