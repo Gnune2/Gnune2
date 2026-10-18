@@ -3,9 +3,15 @@
 
   <br /><br />
 
-  <h1>Guilherme Nunes Furtado</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/name-light.png">
+    <img alt="Guilherme Nunes Furtado" src="assets/name-dark.png" height="38">
+  </picture>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1200&color=A100FF&center=true&vCenter=true&width=620&height=35&lines=Innovation+Reinventor+Intern+%40+Accenture;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Instituto+Mau%C3%A1+de+Tecnologia;IA%2C+LLMs+Integradas+%26+Orquestra%C3%A7%C3%A3o+de+Agentes;Engenharia+de+Software+%26+Automa%C3%A7%C3%A3o+no+Linux" alt="Typing SVG" />
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1200&color=A100FF&center=true&vCenter=true&width=620&height=35&lines=Innovation+Reinventor+Intern+%40+Accenture;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Instituto+Mau%C3%A1+de+Tecnologia;IA%2C+LLMs+Integradas+%26+Orquestra%C3%A7%C3%A3o+de+Agentes;Engenharia+de+Software+%26+Automa%C3%A7%C3%A3o+no+Linux" alt="Typing SVG" />
 
   <br /><br />
 
@@ -79,7 +85,6 @@ Minha atuação é focada em engenharia de software moderna, integração com mo
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
