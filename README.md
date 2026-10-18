@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A100FF,50:0055A5,100:0d1117&height=160&section=header" width="100%" alt="Header Wave" />
 
   <br /><br />
 
