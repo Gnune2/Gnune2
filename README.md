@@ -41,11 +41,11 @@
 
 Graduando em Ciência da Computação no Instituto Mauá de Tecnologia (IMT) e atuando no time de Inovação da Accenture.
 
-Desenvolvimento focado em engenharia de software moderna, orquestração de sistemas multi-agentes de inteligência artificial, automação operacional em Linux e fluxos ágeis de vibe-coding.
+Minha atuação é voltada para engenharia de software moderna, integração profunda com modelos de linguagem (LLMs), orquestração de sistemas multi-agentes autônomos e automação de fluxos no ambiente Linux.
 
 ---
 
-### IA, Agentes & Orquestração
+### IA, LLMs Integradas & Orquestração de Agentes
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
@@ -56,9 +56,9 @@ Desenvolvimento focado em engenharia de software moderna, orquestração de sist
 
 ---
 
-### Linguagens & Vibe-Coding
+### Linguagens & Desenvolvimento
 
-#### Core
+#### Core & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -66,7 +66,7 @@ Desenvolvimento focado em engenharia de software moderna, orquestração de sist
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-#### Vibe-Coding (Pair-Programming com IA)
+#### Desenvolvimento Acelerado com LLMs
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -104,7 +104,6 @@ Desenvolvimento focado em engenharia de software moderna, orquestração de sist
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
@@ -112,7 +111,7 @@ Desenvolvimento focado em engenharia de software moderna, orquestração de sist
 ### Soft Skills & Dinâmica de Trabalho
 
 - **Inovação & Experimentação Ágil:** Transformação rápida de conceitos e prototipagem contínua para problemas reais.
-- **Orquestração de Automação & IA:** Capacidade de coordenar ferramentas autônomas para acelerar o ciclo de vida do software.
+- **Engenharia Acelerada por Agentes:** Coordenação de agentes de IA para otimizar arquitetura, implementação e testes.
 - **Resolução Crítica de Problemas:** Diagnóstico analítico de gargalos e implementação de soluções eficientes.
 - **Adaptabilidade Tecnológica:** Facilidade em transitar entre diferentes pilhas e absorver novos paradigmas.
 - **Comunicação Direta & Colaboração:** Trabalho orientado a metas, alinhamento técnico claro e integração em squads ágeis.
