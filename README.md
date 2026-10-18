@@ -22,13 +22,13 @@
 
   <table border="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td align="center" width="280" style="border: none; padding: 12px;">
-        <img src="assets/accenture.svg" height="36" alt="Accenture" /><br /><br />
+      <td align="center" width="320" style="border: none; padding: 16px;">
+        <img src="assets/accenture.png" height="50" alt="Accenture" /><br /><br />
         <sub><strong>Accenture</strong><br />Innovation Reinventor Intern</sub>
       </td>
-      <td align="center" width="50" style="border: none; font-size: 20px; color: #888;">•</td>
-      <td align="center" width="280" style="border: none; padding: 12px;">
-        <img src="assets/maua.jpg" height="42" alt="Instituto Mauá de Tecnologia" /><br /><br />
+      <td align="center" width="60" style="border: none; font-size: 26px; color: #555;">•</td>
+      <td align="center" width="320" style="border: none; padding: 16px;">
+        <img src="assets/maua.png" height="52" alt="Instituto Mauá de Tecnologia" /><br /><br />
         <sub><strong>Instituto Mauá de Tecnologia</strong><br />Ciência da Computação (3º Semestre)</sub>
       </td>
     </tr>
@@ -39,9 +39,9 @@
 
 ### Sobre
 
-Graduando em Ciência da Computação no Instituto Mauá de Tecnologia (IMT) e atuando no time de Inovação da Accenture.
+Graduando em Ciência da Computação pelo Instituto Mauá de Tecnologia (IMT) e atuando no time de Inovação da Accenture.
 
-Minha atuação é voltada para engenharia de software moderna, integração profunda com modelos de linguagem (LLMs), orquestração de sistemas multi-agentes autônomos e automação de fluxos no ambiente Linux.
+Minha atuação é focada em engenharia de software moderna, integração com modelos de linguagem (LLMs), orquestração de sistemas multi-agentes autônomos e automação de ambientes no Linux.
 
 ---
 
@@ -110,11 +110,11 @@ Minha atuação é voltada para engenharia de software moderna, integração pro
 
 ### Soft Skills & Dinâmica de Trabalho
 
-- **Inovação & Experimentação Ágil:** Transformação rápida de conceitos e prototipagem contínua para problemas reais.
-- **Engenharia Acelerada por Agentes:** Coordenação de agentes de IA para otimizar arquitetura, implementação e testes.
-- **Resolução Crítica de Problemas:** Diagnóstico analítico de gargalos e implementação de soluções eficientes.
-- **Adaptabilidade Tecnológica:** Facilidade em transitar entre diferentes pilhas e absorver novos paradigmas.
-- **Comunicação Direta & Colaboração:** Trabalho orientado a metas, alinhamento técnico claro e integração em squads ágeis.
+- **Inovação & Experimentação Ágil:** Prototipagem contínua e exploração de novas fronteiras tecnológicas para resolução de problemas reais.
+- **Engenharia com Suporte de Agentes:** Automação de processos e coordenação de múltiplos modelos para aceleração de entregas.
+- **Resolução Crítica de Problemas:** Análise técnica estruturada, identificação precoce de gargalos e arquitetura limpa.
+- **Adaptabilidade:** Rápida curva de aprendizado em novas stacks, paradigmas e ferramentas emergentes.
+- **Comunicação Direta & Colaboração:** Alinhamento técnico assertivo, trabalho em equipe e postura colaborativa em squads ágeis.
 
 ---
 

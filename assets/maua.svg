@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" width="420" height="120">
+  <!-- Símbolo Mauá: Quadrado externo, círculo e quadrado interno -->
+  <g transform="translate(10, 10)">
+    <!-- Quadrado externo preenchido em azul -->
+    <rect x="0" y="0" width="100" height="100" fill="#004B87" rx="2" />
+    <!-- Círculo interno branco -->
+    <circle cx="50" cy="50" r="42" fill="#FFFFFF" />
+    <!-- Quadrado interno azul -->
+    <rect x="22" y="22" width="56" height="56" fill="#004B87" />
+    <!-- Círculo central branco -->
+    <circle cx="50" cy="50" r="32" fill="#FFFFFF" />
+  </g>
+
+  <!-- Texto MAUÁ e barras horizontais -->
+  <g transform="translate(135, 10)">
+    <!-- Barra superior -->
+    <rect x="0" y="4" width="265" height="10" fill="#004B87" rx="2" />
+    <!-- Texto MAUÁ -->
+    <text x="132" y="69" font-family="'Arial Black', 'Montserrat', 'Helvetica Neue', sans-serif" font-weight="900" font-size="52" fill="#004B87" text-anchor="middle" letter-spacing="6">MAUÁ</text>
+    <!-- Barra inferior -->
+    <rect x="0" y="86" width="265" height="10" fill="#004B87" rx="2" />
+  </g>
+</svg>
