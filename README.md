@@ -16,29 +16,19 @@
   <br /><br />
 
   <p>
-    <a href="https://www.linkedin.com/in/guilherme-nunes-furtado/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+    <a href="https://www.linkedin.com/in/guilherme-nunes-furtado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;
-    <a href="mailto:nunesfurtado2007@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+    <a href="mailto:nunesfurtado2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     &nbsp;
-    <a href="https://github.com/Gnune2">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    <a href="https://github.com/Gnune2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
   <br />
 
   <p align="center">
-    <a href="https://www.accenture.com" target="_blank">
-      <img src="assets/accenture.png" height="52" alt="Accenture" />
-    </a>
+    <a href="https://www.accenture.com" target="_blank"><img src="assets/accenture.png" height="52" alt="Accenture" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://maua.br" target="_blank">
-      <img src="assets/maua.png" height="70" alt="Instituto Mauá de Tecnologia" />
-    </a>
+    <a href="https://maua.br" target="_blank"><img src="assets/maua.png" height="70" alt="Instituto Mauá de Tecnologia" /></a>
   </p>
 </div>
 
@@ -123,7 +113,22 @@ Minha atuação é focada em engenharia de software moderna, integração com mo
 
 ---
 
-### Atividade de Código
+### Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Gnune2&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnune2&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Gnune2&theme=dark&hide_border=true&background=0D1117&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Gnune2&theme=default&hide_border=true&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" />
+    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=Gnune2&theme=dark&hide_border=true&background=0D1117&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" />
+  </picture>
+</p>
+
+#### Atividade de Código
 
 <p align="center">
   <picture>
